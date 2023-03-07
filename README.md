@@ -1,2 +1,2 @@
-# divyansh
-for pratice how to upload code
+# explian class object in c++ programming language
+
